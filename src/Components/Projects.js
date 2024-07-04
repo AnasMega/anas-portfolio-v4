@@ -7,6 +7,7 @@ import fleetmanagement from '../images/fleetmanagement.png';
 import galaxyMobileApp from '../images/5.png';
 import NajmWebApp from '../images/6.png';
 import clockApp from '../images/7.png';
+ import MGMobileApp from '../images/9.png';
 
 
 const Projects = () => {
@@ -21,6 +22,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={clockApp} projectName="Inventory-Stock-App" />
         <ProjectBox projectPhoto={uplMobile} projectName="UPL-Mobile-App" />
         <ProjectBox projectPhoto={galaxyMobileApp} projectName="Galaxy-Mobile-App" />
+        <ProjectBox projectPhoto={MGMobileApp} projectName="Megatech-Tracking-App" />
       </div>
 
     </div>

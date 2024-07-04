@@ -37,6 +37,10 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     "Inventory-Stock-AppDesc": "An Inventory Management Solution with two cities integration of live stock uppdate for a clock manufecturing factory written in React.js and MongoDB with Node.js and Express Framework",
     "Inventory-Stock-AppGithub": "",
     "Inventory-Stock-AppWebsite": "https://hitco.pk/",
+
+    "Megatech-Tracking-AppDesc": "A Tracking Mobile Applications with live vehicle moving updates with google maps and real time alerts of traffic and vehicle fuel report maintenence reports",
+    "Megatech-Tracking-AppGithub": "",
+    "Megatech-Tracking-Appsite": "https://hitco.pk/",
   }
 
   let show = '';
