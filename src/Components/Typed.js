@@ -1,16 +1,16 @@
 import React from 'react';
-import Typewriter from  'typewriter-effect';
+import Typewriter from 'typewriter-effect';
 
 const Typed = () => {
   return (
     <div className="TypeEffect">
       <Typewriter
         options={{
-          strings: ['Software Developer', 'MERN Stack Developer'],
+          strings: ['MERN Stack Developer', 'Frontend Developer', 'React Native Developer'],
           autoStart: true,
           loop: true,
           delay: 70,
-          deleteSpeed:20,
+          deleteSpeed: 20,
         }}
       />
     </div>
